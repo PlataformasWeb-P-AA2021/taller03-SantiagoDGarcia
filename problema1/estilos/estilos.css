@@ -1,0 +1,23 @@
+.uno {
+      margin: 3em 3em 0.5em 3em;
+      border: 1px solid black;
+      background-color: #9595F6;
+}
+.mensaje {
+      border: 2px solid yellow;
+      padding: 0.5em;
+      margin: 0.5em;
+      background-color: white;
+      font-weight: bolder;
+      font-size: 20px;
+}
+.dos {
+      margin: 0.5em 3em 0.5em 3em;
+      background-color: #CE8845;
+}
+.comentario {
+      border-bottom: 3px solid #20810B;
+      color: white;
+      margin-left: 0.5em;
+      margin-right:  0.5em;
+}
